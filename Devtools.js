@@ -1,3 +1,4 @@
+<script>
 alert("only can add in Chrome")
 
 (function () { 
@@ -5,3 +6,4 @@ alert("only can add in Chrome")
     eruda.init() }
   }
 })();
+</script>
